@@ -14,7 +14,7 @@ import plotly.express as px
 
 st.header("COVID detector based on chest-X-ray")
 
-st.image('./Downloads/12.png')
+#st.image('./Downloads/12.png')
 
 # sidebar-info
 st.sidebar.title('Control Panel')

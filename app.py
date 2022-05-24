@@ -37,7 +37,7 @@ is Artificial Intelligence
 Technology which was built 
 on the basis of more than 1,000
 X-ray data """)
-st.sidebar.image("https://drive.google.com/file/d/1mQq7GOi4ujGYAyScUXiEDBxF3M9bq3JR/view?usp=sharing")
+st.sidebar.image("https://image.shutterstock.com/image-vector/rubber-stamp-diagnosis-coronavirus-covid-600w-1655882443.jpg")
 
 st.sidebar.code('Author: Musaeva Gulrukhsor\nEmail: sarah579395@gmail.com ')
 

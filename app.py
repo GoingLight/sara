@@ -14,7 +14,7 @@ import plotly.express as px
 
 st.header("COVID detector based on chest-X-ray")
 
-#st.image('./Downloads/12.png')
+st.image("https://static.abcotvs.com/kgo/images/cms/automation/vod/040220-kgo-what-does-covid19-mean-img.jpg")
 
 # sidebar-info
 st.sidebar.title('Control Panel')

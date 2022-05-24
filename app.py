@@ -37,7 +37,7 @@ is Artificial Intelligence
 Technology which was built 
 on the basis of more than 1,000
 X-ray data """)
-#st.sidebar.image('./Downloads/1.png')
+st.sidebar.image("https://www.canva.com/design/DAE-lfbzrcI/ndzf-ojVAZufF2QHrCIW9w/edit?utm_content=DAE-lfbzrcI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton")
 
 st.sidebar.code('Author: Musaeva Gulrukhsor\nEmail: sarah579395@gmail.com ')
 

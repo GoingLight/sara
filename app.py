@@ -37,7 +37,7 @@ is Artificial Intelligence
 Technology which was built 
 on the basis of more than 1,000
 X-ray data """)
-st.sidebar.image("https://github.com/GoingLight/sara/blob/main/Blue%20Minimalist%20Lung%20Illustration%20Pulmonologist%20Logo.png?raw=true")
+st.sidebar.image("https://github.com/GoingLight/sara/blob/main/Blue%20Minimalist%20Lung%20Illustration%20Pulmonologist%20Logo%20(1).png?raw=true")
 
 st.sidebar.code('Author: Musaeva Gulrukhsor\nEmail: sarah579395@gmail.com ')
 

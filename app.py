@@ -6,10 +6,6 @@ from PIL import Image, ImageOps
 import plotly.express as px
 
 
-
-
-
-
 # st.header
 
 st.header("COVID detector based on chest-X-ray")

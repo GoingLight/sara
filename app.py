@@ -8,7 +8,7 @@ import plotly.express as px
 
 # st.header
 
-st.header("COVID detector based on chest-X-ray")
+st.header("COVID-19 detector based on chest-X-ray")
 
 st.image("https://github.com/GoingLight/sara/blob/main/Untitled%20design.png?raw=true")
 

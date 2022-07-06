@@ -41,14 +41,6 @@ st.sidebar.image("https://github.com/GoingLight/sara/blob/main/Blue%20Minimalist
 
 st.sidebar.code('Author: Musaeva Gulrukhsor\nEmail: sarah579395@gmail.com ')
 
-tips_normal = "Your X-Ray is Normal, Stay Safe 👋🏻"
-tips_covid = " Covid was found on your X-Ray, please contact nearest healthcare centre🏥 "
-tips_viral = " Viral Prenumonia was found in your X-Ray, please contact nearest healthcare centre 🏥  "
-
-
-
-
-
 if file:
     st.image(file)
     # PIL convert
